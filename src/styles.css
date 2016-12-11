@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html *
+{
+  font-size: 17px !important;
+  color: #ee5f80 !important;
+  font-family: Abel;
+}
+
+@font-face {
+  font-family: Abel;
+  src: url('assets/fonts/Abel.eot');
+  src: url('assets/fonts/Abel.eot?#iefix') format('embedded-opentype'), url('assets/fonts/Abel.woff2') format('woff2'), url('assets/fonts/Abel.woff') format('woff'), url('assets/fonts/Abel.ttf') format('truetype'), url('assets/fonts/Abel.svg#Abel-Regular') format('svg');
+}
